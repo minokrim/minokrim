@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi, I'm Kareem Alameen
 
 🎓 I'm a **Software Engineer** with a strong focus on **Front-End Development** and a solid background in back-end systems. I'm currently building an **automated document management system** to streamline workflow efficiency.
