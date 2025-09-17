@@ -44,17 +44,16 @@
 - React Testing Library
 
 ### 💼 Open to Opportunities
-💼 Open to Opportunities
 
-I’m actively seeking full-time Software Engineering roles where I can:
+- I’m actively seeking full-time Software Engineering roles where I can:
 
-Contribute to end-to-end product development
+- Contribute to end-to-end product development
 
-Solve complex engineering challenges
+- Solve complex engineering challenges
 
-Deliver scalable, maintainable, and high-performing applications
+- Deliver scalable, maintainable, and high-performing applications
 
-Collaborate in cross-functional teams following Agile principles
+- Collaborate in cross-functional teams following Agile principles
 
 ### 📫 Let's Connect
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/alameen-kareem-0b5a7820a/) or [Email](https://minokrim.github.io/Portfolioproject/#/Contact) – I'm always happy to connect and collaborate.
